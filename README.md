@@ -1,0 +1,2 @@
+# EmailFunction
+Simple Azure Function
